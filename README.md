@@ -12,3 +12,11 @@ https://user-images.githubusercontent.com/47889375/115139272-92758280-a04e-11eb-
 Here are the original images for reference:
 
 ![image](https://user-images.githubusercontent.com/47889375/115139314-d8324b00-a04e-11eb-81eb-4bad5d5aeef7.png)
+
+## Technologies used:
+1. Python
+2. Numpy and Pandas for data cleaning
+3. Matplotlib for data visualization
+4. Sklearn for model building
+5. Jupyter notebook, visual studio code and pycharm as IDE
+6. FB Prophet
