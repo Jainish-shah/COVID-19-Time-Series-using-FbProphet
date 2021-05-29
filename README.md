@@ -1,6 +1,6 @@
 # COVID-19-Time-Series-using-FbProphet
 
-This repository provides a Jupyter Notebook that shows how to use the FbProphet on COVID-19 dataset. I have used data preprocessing mostly from in noteebook to demonstrate an end-to-end example. 
+This repository provides a Jupyter Notebook that shows how to use the FbProphet on COVID-19 dataset. I have used data preprocessing mostly from in notebook to demonstrate an end-to-end example. 
 
 
 Here's a demonstration:
